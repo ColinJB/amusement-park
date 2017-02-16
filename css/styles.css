@@ -1,3 +1,6 @@
 #tooShort, #tallEnough, #tooTall {
   display: none;
 }
+.highlight {
+  background-color: yellow;
+}
